@@ -63,10 +63,10 @@ dhruv = {
 
 ## 🚀 Featured Projects
 
-### 🏙️ Urban Intelligence Dashboard
-> *AI-Powered Infrastructure Analysis for Bangalore City*
+### 🏙️ Urban Intel
+> *AI-Powered Infrastructure Analysis Dashboard for Bangalore City*
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://urban-intelligence-dashboard-seven.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://urban-intel.vercel.app/)
 [![API Docs](https://img.shields.io/badge/API_Docs-009688?style=flat-square&logo=fastapi&logoColor=white)](https://urban-intelligence-dashboard.onrender.com/docs)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com)
