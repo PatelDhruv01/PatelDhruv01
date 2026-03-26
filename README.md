@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-pateldhruv-)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvvp.mds@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://urban-intelligence-dashboard-seven.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://urban-intel.vercel.app/)
 
 </div>
 
