@@ -130,7 +130,7 @@ An interactive R-Shiny dashboard analysing structural and financial drivers of e
 
 | Degree | Institution | Year | CGPA |
 |--------|-------------|------|------|
-| M.Sc. Data Science | Chennai Mathematical Institute | 2025 – Present | 8.12 / 10 |
+| M.Sc. Data Science | Chennai Mathematical Institute | 2025 – Present | 8.44 / 10 |
 | B.Tech AI & Data Science | A.D. Patel Institute of Technology | 2021 – 2025 | 9.13 / 10 |
 
 ---
