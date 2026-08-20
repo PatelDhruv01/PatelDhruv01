@@ -16,7 +16,7 @@
 
 ```python
 dhruv = {
-    "education"  : "M.Sc. Data Science @ Chennai Mathematical Institute (CGPA: 8.12)",
+    "education"  : "M.Sc. Data Science @ Chennai Mathematical Institute (CGPA: 8.44)",
     "background" : "B.Tech AI & Data Science @ ADIT, Gujarat (CGPA: 9.13)",
     "focus"      : ["LLMs & RAG pipelines", "data analytics", "Full-stack data apps"],
     "currently"  : "Deepening foundations in ML & data pipelines",
@@ -61,7 +61,34 @@ dhruv = {
 
 ---
 
+## 💼 Experience
+
+**Data Science Intern** · [CEGIS Foundation](https://www.cegis.org/) · *May – Jul 2026*
+Built document extraction and retrieval infrastructure for government archives — OCR pipeline, evaluation benchmarks, and desktop tooling. Details in Pralekh Netra below.
+
+---
+
 ## 🚀 Featured Projects
+
+### 📄 Pralekh Netra
+> *Desktop OCR & Document Intelligence for Government Archives — built at CEGIS Foundation*
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PatelDhruv01/pralekh-netra-desktop)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://electronjs.org)
+
+A standalone desktop application that extracts text and tables from scanned government circulars, reviews them in dedicated viewers, and exports to Word, Excel and Markdown. Deployed over a **3,296-PDF corpus spanning 34 government departments**, with GPU inference on AWS EC2 cutting extraction from ~2 minutes to **~20–30 seconds per page**.
+
+- ⚡ Hardware-aware batch sizing with CUDA auto-detection and CPU fallback
+- 🎯 Per-page confidence scoring that flags low-quality extractions for review
+- 🔍 Multilingual retrieval layer — English, Hindi and Hinglish query fusion (+7 pts English accuracy)
+- 📊 Streamlit telemetry dashboard for live pipeline monitoring and safe shutdown
+- 📦 Cross-platform installer, runs fully offline
+
+`Python` `FastAPI` `Electron` `Surya OCR 2` `BGE-M3` `AWS EC2` `Streamlit`
+
+---
 
 ### 🏙️ Urban Intel
 > *AI-Powered Infrastructure Analysis Dashboard for Bangalore City*
@@ -137,7 +164,7 @@ An interactive R-Shiny dashboard analysing structural and financial drivers of e
 
 <div align="center">
 
-*Open to internship and research opportunities in Data Science, ML Engineering, and AI Systems.*
+*Open to full-time graduate roles and research opportunities in Data Science, ML Engineering, and AI Systems.*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=PatelDhruv01&color=6366F1&style=flat-square&label=Profile+Views)
 
