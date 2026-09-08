@@ -1,0 +1,29 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Updates automatically at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          github_token: ${{ secrets.PAT_TOKEN }}
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
+          path: streak-stats.svg
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add streak-stats.svg
+          git commit -m "Generated Streak Stats" || exit 0
+          git push
