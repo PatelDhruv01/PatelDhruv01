@@ -146,9 +146,9 @@ An interactive R-Shiny dashboard analysing structural and financial drivers of e
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatelDhruv01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="./streak-stats.svg" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -166,6 +166,6 @@ An interactive R-Shiny dashboard analysing structural and financial drivers of e
 
 *Open to full-time graduate roles and research opportunities in Data Science, ML Engineering, and AI Systems.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PatelDhruv01&color=6366F1&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=PatelDhruv01&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
